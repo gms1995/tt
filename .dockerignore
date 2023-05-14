@@ -1,0 +1,13 @@
+db_data/
+logs/
+servicediscovery/
+redis_data/
+*.yml
+*.log
+*.pyc
+events/
+rcongui/node_modules/
+*.tar
+*.gz
+db_data_bu/
+config/
